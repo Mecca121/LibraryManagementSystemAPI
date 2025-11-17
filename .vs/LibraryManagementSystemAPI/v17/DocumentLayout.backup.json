@@ -1,7 +1,100 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\librarymanagementsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\librarymanagementsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Migrations\\20251117144010_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystemAPI\\Migrations\\20251117144010_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Migrations\\20251117143052_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystemAPI\\Migrations\\20251117143052_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\repository\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\repository\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\repository\\interfaces\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\repository\\interfaces\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\repository\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\repository\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|c:\\users\\providence limited\\source\\repos\\librarymanagementsystemapi\\librarymanagementsystemapi\\librarymanagementsystemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{748F7663-0EA2-4EC5-B6BC-0058F80FBCAB}|LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj|solutionrelative:librarymanagementsystemapi\\librarymanagementsystemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,6 +163,309 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:30:54.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Repository\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Repository\\AuthorRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:40:20.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:55:29.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagementSystemAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj*",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\LibraryManagementSystemAPI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T11:02:07.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251117143052_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Migrations\\20251117143052_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Migrations\\20251117143052_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Migrations\\20251117143052_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Migrations\\20251117143052_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:30:52.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T09:12:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251117144010_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Migrations\\20251117144010_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Migrations\\20251117144010_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Migrations\\20251117144010_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Migrations\\20251117144010_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:40:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:38:58.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:25:40.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:26:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:38:24.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:03:43.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Repository\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Repository\\GenreRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:41:40.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\Interfaces\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Repository\\Interfaces\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\Interfaces\\IBooksRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Repository\\Interfaces\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:49:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Repository\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\BooksRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Repository\\BooksRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:56:22.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\Interfaces\\IAuthorsRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Repository\\Interfaces\\IAuthorsRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\Interfaces\\IAuthorsRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Repository\\Interfaces\\IAuthorsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:50:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Repository\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Repository\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Repository\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:51:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Dtos\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Dtos\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Dtos\\AuthorDto.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Dtos\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:43:53.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Dtos\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:45:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Dtos\\GenreDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Dtos\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Dtos\\GenreDto.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Dtos\\GenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:44:28.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\Genre.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:06:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:47:22.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibraryManagementSystemAPI.http",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI.http",
+              "RelativeDocumentMoniker": "LibraryManagementSystemAPI\\LibraryManagementSystemAPI.http",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI\\LibraryManagementSystemAPI.http",
+              "RelativeToolTip": "LibraryManagementSystemAPI\\LibraryManagementSystemAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-17T02:02:34.955Z",
+              "EditorCaption": ""
             }
           ]
         }
