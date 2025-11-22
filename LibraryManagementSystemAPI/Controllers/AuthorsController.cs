@@ -28,7 +28,6 @@ namespace LibraryManagementSystemAPI.Controllers
                     Bio = a.Bio,
                     DateOfBirth = a.DateOfBirth,
                     CreatedOn = a.CreatedOn,
-                    IsDeleted = a.IsDeleted
                 });
             return Ok(authors);
         }
@@ -47,7 +46,6 @@ namespace LibraryManagementSystemAPI.Controllers
                 Bio = author.Bio,
                 DateOfBirth = author.DateOfBirth,
                 CreatedOn = author.CreatedOn,
-                IsDeleted = author.IsDeleted
             };
             return Ok(dto);
         }
@@ -79,7 +77,6 @@ namespace LibraryManagementSystemAPI.Controllers
             author.LastName = dto.LastName;
             author.Bio = dto.Bio;
             author.DateOfBirth = dto.DateOfBirth;
-            author.IsDeleted = dto.IsDeleted;
 
             _authorRepository.UpdateAuthor(author);
             return NoContent();

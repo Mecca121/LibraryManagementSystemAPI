@@ -8,7 +8,7 @@ namespace LibraryManagementSystemAPI.Repository.Interfaces
     {
         IEnumerable<Author> GetAllAuthors();
         Author? GetAuthorById(Guid id);
-        void AddAuthor(Author author);
+        void AddAuthor(Author author); 
         void UpdateAuthor(Author author);
         void DeleteAuthor(Guid id);
     }

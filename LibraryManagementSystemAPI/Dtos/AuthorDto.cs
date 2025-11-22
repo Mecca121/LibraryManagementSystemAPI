@@ -9,7 +9,6 @@ namespace LibraryManagementSystemAPI.Dtos
         public string? LastName { get; set; }
         public string? Bio { get; set; }
         public DateTime DateOfBirth { get; set; }
-        public DateTime CreatedOn { get; set; }
-        public bool IsDeleted { get; set; }
+        public DateTime CreatedOn { get; set; } = DateTime.Now;
     }
 }

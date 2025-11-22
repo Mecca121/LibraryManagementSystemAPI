@@ -1,9 +1,8 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "Library Management System API",
-    "description": "An API for managing books, authors, and genres.",
-    "version": "v1"
+    "title": "LibraryManagementSystemAPI",
+    "version": "1.0"
   },
   "paths": {
     "/api/Authors": {
@@ -410,9 +409,6 @@
           "createdOn": {
             "type": "string",
             "format": "date-time"
-          },
-          "isDeleted": {
-            "type": "boolean"
           }
         },
         "additionalProperties": false

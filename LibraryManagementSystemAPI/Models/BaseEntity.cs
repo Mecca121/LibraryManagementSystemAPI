@@ -7,7 +7,7 @@ namespace LibraryManagementSystemAPI.Models
         [Key]
         public Guid Id { get; set; } = Guid.NewGuid();
 
-        public DateTime CreatedOn { get; set; } = DateTime.Now;
-        public bool IsDeleted { get; set; }
+        public DateTime CreatedOn { get; set; } = DateTime.UtcNow;
+        public bool IsDeleted { get; set; } = false; 
     }
 }
